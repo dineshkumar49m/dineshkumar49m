@@ -45,6 +45,7 @@ I keep production systems fast, reliable and automated — Linux, AWS, Kubernete
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dinesh--kumar--mittapalli-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh-kumar-mittapalli)
 [![Email](https://img.shields.io/badge/Email-dineshkumar.49m%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:dineshkumar.49m@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-dineshkumar49m-181717?logo=github&logoColor=white)](https://github.com/dineshkumar49m)
 [![Portfolio](https://img.shields.io/badge/Portfolio-dineshkumar49m.github.io-22d3ee?logo=googlechrome&logoColor=white)](https://dineshkumar49m.github.io)
 
 📞 +91 86866 22884
