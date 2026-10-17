@@ -80,7 +80,6 @@ These are summaries of employer production work, not public source-code reposito
 Open to SRE, AWS DevOps, Senior DevOps, Cloud / Platform Operations and Production Support opportunities. Please include the role, company, location and key requirements when reaching out.
 
 - **Email:** [dineshkumar.49m@gmail.com](mailto:dineshkumar.49m@gmail.com)
-- **Phone:** +91 86866 22884
 - **LinkedIn:** https://www.linkedin.com/in/dinesh-kumar-mittapalli
 - **Portfolio:** https://dineshkumar49m.github.io
 - **Portfolio repository:** https://github.com/dineshkumar49m/dineshkumar49m.github.io
